@@ -1,0 +1,2 @@
+MODEL_NAMES = ["MobileNetV3Large"]
+START_MODEL_INDEX = 0
